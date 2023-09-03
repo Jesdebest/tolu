@@ -1,0 +1,10 @@
+süslü parentezin olduklarını vermek zorunda deiglsin ama normal parazntesiz içinde olanları vermek zorundasın
+
+
+padding iki kompenentin arasına boşluk burakmaya yarar
+
+resim kullanmak için her seferinde pubspece gidip assetsin içine resimin ismini alıp sonuna png koymak
+
+alt alta yazmak için colonu kullanırız
+
+serviste 200 ile 300 düzgün çalışır 400 den sonrası çalışmaz
